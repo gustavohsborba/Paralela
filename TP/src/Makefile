@@ -11,6 +11,8 @@ LDLIBS = -lrt -lblas -llapack -lm
 targets = benchmark-naive benchmark-blocked benchmark-blas benchmark-borba-naive benchmark-borba-blocked 
 objects = benchmark.o dgemm-naive.o dgemm-blocked.o dgemm-blas.o borba-naive.o borba-blocked.o
 
+##-O3 -fstrict-aliasing -std=c99
+
 .PHONY : default
 default : all
 
