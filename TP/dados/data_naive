@@ -1,26 +1,26 @@
-Size: 31    Mflop/s:  2342.43   Percentage: 12.20
-Size: 32    Mflop/s:  2388.09   Percentage: 12.44
-Size: 96    Mflop/s:  2055.72   Percentage: 10.71
-Size: 97    Mflop/s:  2030.39   Percentage: 10.57
-Size: 127   Mflop/s:  1984.17   Percentage: 10.33
-Size: 128   Mflop/s:  1377.07   Percentage:  7.17
-Size: 129   Mflop/s:  2013.97   Percentage: 10.49
-Size: 191   Mflop/s:  1921.26   Percentage: 10.01
-Size: 192   Mflop/s:  1761.43   Percentage:  9.17
-Size: 229   Mflop/s:  1872.84   Percentage:  9.75
-Size: 255   Mflop/s:  1888.68   Percentage:  9.84
-Size: 256   Mflop/s:  902.815   Percentage:  4.70
-Size: 257   Mflop/s:  1799.91   Percentage:  9.37
-Size: 319   Mflop/s:  1885.14   Percentage:  9.82
-Size: 320   Mflop/s:  1373.75   Percentage:  7.15
-Size: 321   Mflop/s:  1875.92   Percentage:  9.77
-Size: 417   Mflop/s:  1856.26   Percentage:  9.67
-Size: 479   Mflop/s:  1866.12   Percentage:  9.72
-Size: 480   Mflop/s:  1730.83   Percentage:  9.01
-Size: 511   Mflop/s:  1872.94   Percentage:  9.75
-Size: 512   Mflop/s:  848.425   Percentage:  4.42
-Size: 639   Mflop/s:  1587.36   Percentage:  8.27
-Size: 640   Mflop/s:   888.47   Percentage:  4.63
-Size: 767   Mflop/s:  1576.14   Percentage:  8.21
-Size: 768   Mflop/s:   846.02   Percentage:  4.41
-Size: 769   Mflop/s:  1595.16   Percentage:  8.31
+31	1552.15	8.08
+32	1562.75	8.14
+96	2217.85	11.55
+97	2220.23	11.56
+127	2134.43	11.12
+128	1993.82	10.38
+129	2192.21	11.42
+191	2108.58	10.98
+192	1681.53	8.76
+229	2061.26	10.74
+255	2079.43	10.83
+256	958.805	4.99
+257	2071.31	10.79
+319	2081.68	10.84
+320	1607.43	8.37
+321	2082.33	10.85
+417	2065.68	10.76
+479	2079.83	10.83
+480	1938.44	10.10
+511	2091.01	10.89
+512	947.903	4.94
+639	2047.79	10.67
+640	957.56	4.99
+767	2046.49	10.66
+768	961.095	5.01
+769	2047.58	10.66

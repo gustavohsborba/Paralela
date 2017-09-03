@@ -13,8 +13,7 @@ void square_dgemm (int n, double* restrict A, double* restrict B, double* restri
     {
       /* Compute C(i,j) */
       int jn = j*n;
-      int i_jn = i+jn;
-      double cij = C[i+jn];
+      register double cij = C[i+jn];
       for( int k = 0; k < n; k++ ){
         double Aikn=A[i+k*n];
         double Bkjn=B[k+jn];
